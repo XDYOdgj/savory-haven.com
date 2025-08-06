@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://savory-haven.com/sitemap.xml
